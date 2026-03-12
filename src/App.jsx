@@ -1,5 +1,6 @@
 
 import Watch from './components/Sunglass/Watch/Watch'
+import './App.css'
 
 
 function App() {
